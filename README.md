@@ -17,18 +17,21 @@ Orientaciones generales para el ejercicio:
 # NOTAS AL PROFESOR
 
 # Fuentes
-Cursos, Videos, Documentancion consultada para la realicacion de esta actividad:
+Cursos, Videos, Documentancion consultada para la realicacion de esta actividad
 
 ## HTML
 - https://www.w3schools.com/html/default.asp
-- 
 ## CSS 
-
+- https://www.w3schools.com/css/default.asp
 ## Bootstrap
-- 
-
+- https://www.w3schools.com/bootstrap5/index.php
 ## Javascript
--
-
+- https://www.w3schools.com/js/default.asp
+- https://www.youtube.com/watch?v=ssRaLzGz_SY
+- https://www.freecodecamp.org/espanol/news/boton-html-onclick-tutorial-de-evento-de-clic-en-javascript/
 ## PHP
-
+- https://www.w3schools.com/php/default.asp
+- https://www.youtube.com/watch?v=BcGAPkjt_IE
+- https://www.youtube.com/watch?v=V2Q1eRUlnlM
+## API
+- https://pokeapi.co/docs/v2
