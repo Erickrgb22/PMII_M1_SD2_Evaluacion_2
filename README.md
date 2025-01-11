@@ -15,3 +15,20 @@ Orientaciones generales para el ejercicio:
 3. Incluir bootstrap en los diseños de dichas páginas.
 
 # NOTAS AL PROFESOR
+
+# Fuentes
+Cursos, Videos, Documentancion consultada para la realicacion de esta actividad:
+
+## HTML
+- https://www.w3schools.com/html/default.asp
+- 
+## CSS 
+
+## Bootstrap
+- 
+
+## Javascript
+-
+
+## PHP
+
