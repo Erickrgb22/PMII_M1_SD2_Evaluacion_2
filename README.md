@@ -16,6 +16,8 @@ Orientaciones generales para el ejercicio:
 
 # NOTAS AL PROFESOR
 
+La pagina web consta de un aplicativo que se trata de adivinar cual seria tu pokemon si estos existiesen, y pues tuvieras que tener uno.
+
 # Fuentes
 Cursos, Videos, Documentancion consultada para la realicacion de esta actividad
 
