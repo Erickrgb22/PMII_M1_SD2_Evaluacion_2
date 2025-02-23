@@ -1,6 +1,15 @@
 # PMII_M1_SD2_Evaluacion_2
 UNETI - Erick Gilmore v27225952
 
+# Nota al Profesor
+
+Si desea puede correr el servicio que defini en docker-compose.yaml
+Este levanta un webserver de Nginx con PHP y PHP-FPM en el Puerto 80 de su maquina
+De ese modo puede ver la pagina funcionando en vivo con las mismas variables de entorno que use para su desarrollo.
+
+Una vez arriba puede acceder con: 
+http://localhost:80/pages/index.php
+
 # Actividad:
 En esta actividad realizarán una página web que pida datos y a su vez sean validados con Javascript, mínimo deben usar 5 campos.
 
